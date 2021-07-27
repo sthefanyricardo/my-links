@@ -1,6 +1,6 @@
 <h1 align="center"> Meu Linktree Personalizado </h1>
 
-## :mag: Sobre
+## :pushpin: Sobre
 
 O Linktree é uma plataforma de social-linking e redes sociais que opera num modelo freemium (mas também oferece uma assinatura 'Pro'), seu objetivo é fornecer uma página única (ou mesmo landing page), onde qualquer pessoas ou empresas consigam disponibilizar os seus diversos links (seja para suas redes sociais ou qualquer outro endereço de destino), em um mesmo lugar.
 
@@ -14,7 +14,7 @@ Levando em conta as poucas opções de personalização (sem uma assinatura Pro 
 - Visual Code Studio
 - ScreenToGif (para fazer os gifs de demonstração)
 
-## :pushpin: Funcionalidades
+## :mag: Funcionalidades
 
 ✔️ Layout Responsívo<br/>
 ✔️ Dark and light mode theme toggle<br/>
