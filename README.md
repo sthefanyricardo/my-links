@@ -8,8 +8,8 @@ Levando em conta as poucas opções de personalização (sem uma assinatura Pro 
 
 ## :computer: Funcionalidades
 
-✔️ Layout Responsívo
-✔️ Dark and light mode theme toggle
+✔️ Layout Responsívo<br/>
+✔️ Dark and light mode theme toggle<br/>
 
 ## :gear: Demonstração
 
@@ -30,5 +30,5 @@ Levando em conta as poucas opções de personalização (sem uma assinatura Pro 
 - ScreenToGif (para fazer os gifs de demonstração)
 
 <hr>
-Made with :coffee: by Sthefany Albuquerque.
+Feito com :coffee: por Sthefany Albuquerque.
 
