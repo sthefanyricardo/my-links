@@ -6,7 +6,15 @@ O Linktree é uma plataforma de social-linking e redes sociais que opera num mod
 
 Levando em conta as poucas opções de personalização (sem uma assinatura Pro ativa), decidi criar o meu próprio linktree para ter mais liberdade em personalizar. 
 
-## :computer: Funcionalidades
+## :woman_technologist: Tecnologias e ferramentas utilizadas
+
+- HTML
+- CSS
+- Javascript 
+- Visual Code Studio
+- ScreenToGif (para fazer os gifs de demonstração)
+
+## :pushpin: Funcionalidades
 
 ✔️ Layout Responsívo<br/>
 ✔️ Dark and light mode theme toggle<br/>
@@ -20,14 +28,6 @@ Levando em conta as poucas opções de personalização (sem uma assinatura Pro 
 <br><br/>
 ![My Linktree Demo Responsive](./assets/img/demo-my-linktree-responsivo.gif)
 <br/> 
-
-## :woman_technologist: Tecnologias e ferramentas utilizadas
-
-- HTML
-- CSS
-- Javascript 
-- Visual Code Studio
-- ScreenToGif (para fazer os gifs de demonstração)
 
 <hr>
 Feito com :coffee: por Sthefany Albuquerque.
