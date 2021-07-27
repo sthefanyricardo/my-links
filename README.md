@@ -1,4 +1,4 @@
-# -> Meu Linktree Personalizado <-
+<h1 align="center"> Meu Linktree Personalizado </h1>
 
 ## Sobre
 
@@ -6,13 +6,13 @@ O Linktree é uma plataforma de social-linking e redes sociais que opera num mod
 
 Levando em conta as poucas opções de personalização (sem uma assinatura Pro ativa), decidi criar o meu próprio linktree para ter mais liberdade em personalizar. **Vejam o resultado a seguir.**
 
-## Demo
+## Demonstração
 
-**Deploy da Aplicação**
+**Deploy da Aplicação:**
 > https://sthefany-a.github.io/my-links/
 
 ![My Linktree Demo](./assets/img/demo-my-linktree.gif)
-<br>
+<br><br/>
 ![My Linktree Demo Responsive](./assets/img/demo-my-linktree-responsivo.gif)
 <hr> 
 
