@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@500&display=swap');
-:root {
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');:root {
   --main-color: #7A3695;
   --bg:  #2F2D30; 
   --text-color: #F9EEFD; 
@@ -11,7 +10,17 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    font-family: 'Encode Sans SC', sans-serif;
 }
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 body {
     display: flex;
